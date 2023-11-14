@@ -1,0 +1,11 @@
+/* The integration's default injected base.css file */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* pallete of colors */
+:root {
+    --primary-color: #e85e56;
+    --light-color: #f4e9dc;
+    --dark-color: #494949;
+  }
